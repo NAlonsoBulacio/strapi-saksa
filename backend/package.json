@@ -1,5 +1,5 @@
 {
-  "name": "strapi-saksa",
+  "name": "backend",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -25,7 +25,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "a3bd5922-d209-411a-85c7-b60cc971a4ff"
+    "uuid": "e25d466b-27a3-41b2-acd5-bba7b1bb9de7"
   },
   "engines": {
     "node": ">=18.0.0 <=20.x.x",
